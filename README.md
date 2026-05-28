@@ -1,6 +1,6 @@
-![Lobster banner](docs/assets/readme-banner.jpg)
-
 # 🦞 Lobster
+
+![Lobster banner](docs/assets/readme-banner.jpg)
 
 An OpenClaw-native workflow shell: typed (JSON-first) pipelines, jobs, and approval gates.
 
