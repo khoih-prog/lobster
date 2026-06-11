@@ -2,6 +2,8 @@
 
 All notable changes to Lobster will be documented in this file.
 
+## Unreleased
+
 ## 2026.6.11
 
 - Add command-level `ctx.requestInput(...)` for CLI/tool/SDK pipeline commands, with state-backed same-command resume, bounded command-input replay, and workflow `pipeline:` propagation (Issue [#101](https://github.com/openclaw/lobster/issues/101)).
